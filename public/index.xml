@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stanley space</title>
+    <link>/</link>
+    <description>Recent content on Stanley space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Aug 2020 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 05 Aug 2020 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi, my name is Stanley, a grad student with African root, hatched in the Lagos, Nigeria and living as an academic normad ever since. I&amp;rsquo;m interested in understanding how our marine system works, especially in aspect of biogeochemistry and ecology.
+I decided to create this blog to help practice my communication skills as I navigate this academic terrain. So, In essence this space will be a hub for joggling some of my thoughts, experiences and things that I&amp;rsquo;m currently learning about in marine science space.</description>
+    </item>
+    
+  </channel>
+</rss>
