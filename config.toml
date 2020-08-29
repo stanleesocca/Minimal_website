@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://ify.netlify.app/"
 languageCode = "en-us"
 title = "Stanley space"
 theme = "hugo-lithium"
