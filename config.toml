@@ -10,8 +10,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Post"
-    url = "/about/"
+    name = "Notes"
+    url = ""
     weight = 1
 [[menu.main]]
     name = "About"
@@ -26,16 +26,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://github.com/stanleesocca"
     weight = 4
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/nmorstanlee"
-    weight = 5
-[[menu.main]]
     name = "CV"
     url = "files/NMOR STANLEY CV.pdf"
-    weight = 6
+    weight = 5
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Personal space for all things marine science"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
