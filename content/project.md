@@ -5,7 +5,7 @@ These are some recent project I have worked or still working on.
 * **Investigating Coral Community Change and Potential Recovery Following Mass Coral Bleaching and Mortality Event-Chagos Archipelagos case study**
   * Involved in project investigating the response of coral communities after episodic external
   disturbances with the charming [Dr Catherine Head](https://www.zoo.ox.ac.uk/people/dr-catherine-head) of    University of Oxford, UK as part  of my professional practice in the [International Masters in    Marine Biological resources](www.imbrsea.eu) programme. 
-  * I also developed a simple, coral ID web app for fun at the end of the project. I named it [Coralipedia]("https://stanlee.shinyapps.io/Coralipedia/"). Obviously, it can be better. If you have any ideas, reach out.
+  * I also developed a simple, coral ID web app for fun at the end of the project. I named it [Coralipedia](https://stanlee.shinyapps.io/Coralipedia/). Obviously, it can be better. If you have any ideas, reach out.
 
 * **Modelling the contribution of Microphytobenthos in Sediment biogeochemistry**
   * I worked with the incredible [Dr Karline Soetaert](https://www.nioz.nl/en/about/organisation/staff/karline-soetaert) of Royal Netherland of Sea Research in improving   the representation of biological component in classic early diagenesis benthic model. 

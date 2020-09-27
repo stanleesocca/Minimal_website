@@ -31,5 +31,4 @@ Hi, my name is Stanley. I'm a PhD student in Laboratoire des Sciences du Climat 
 
 I decided to create this space as a landing page for my work. Occassionally, I will share some personal experiences/story as I journey on this academic terrain. 
 
-You can reach me on [twitter](https://twitter.com/nmorstanlee)
 
