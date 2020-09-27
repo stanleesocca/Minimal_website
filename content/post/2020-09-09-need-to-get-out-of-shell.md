@@ -17,7 +17,7 @@ On a more serious tone, the question of expressing myself in my own terms have b
 
 - Also, I hope to used this medium to learn and improve on my verbal skills. Communication and writting as skills often relegated to side in my bucket list of "to-do". I believe writing here when time permit, can help improve such skills. What do I want to write? Honestly I have no clue but mostly will be stuff related to my discipline and interest. Some personal thought about science, programming, and perhaps other tangential preoccupation. Time will tell.
 
-- Lastly, As shared by [David Robinson]("http://varianceexplained.org/r/start-blog/"), aspiring data scientist ought to consider blogging to help careers visibility. The statement rings true for all professional beyond data science practitioners, I might as well as start building my digital presence now for future sake. Hopefully, I stay long enough beyond some couple of post and strive to keep updating this space. 
+- Lastly, As shared by [David Robinson](http://varianceexplained.org/r/start-blog/), aspiring data scientist ought to consider blogging to help careers visibility. The statement rings true for all professional beyond data science practitioners, I might as well as start building my digital presence now for future sake. Hopefully, I stay long enough beyond some couple of post and strive to keep updating this space. 
 
 That being said, I welcome you to this corner of the web.   
 
