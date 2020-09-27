@@ -5,7 +5,7 @@ date: '2020-09-09'
 slug: from-the-shell-to-the-wave
 categories: []
 tags: []
-draft: true
+draft: false
 ---
 
 Why this? Why write?
