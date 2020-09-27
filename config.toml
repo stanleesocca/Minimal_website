@@ -1,37 +1,42 @@
 baseurl = "https://ify.netlify.app/"
 languageCode = "en-us"
-title = "Stanley space"
+title = "Ify"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
+    
 [[menu.main]]
-    name = "Notes"
-    url = ""
+    name = "Stan's Diary"
+    url = "/post/"
+    pre = "fas fa-book"
     weight = 1
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
+    
 [[menu.main]]
     name = "Project"
-    url = "/about/"
+    url = "/project/"
+    pre = "fas fa-tasks"
+    weight = 2
+
+[[menu.main]]
+    name = "Github"
+    pre =  "fa fa-github"
+    url = "https://github.com/stanleesocca"
     weight = 3
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/stanleesocca"
-    weight = 4
-[[menu.main]]
     name = "CV"
-    url = "files/NMOR STANLEY CV.pdf"
-    weight = 5
+    pre = "fas fa-graduation-cap"
+    url = "CV/cv.pdf"
+    weight = 4
 
 [params]
     description = "Personal space for all things marine science"
+    customCSS = ["css/fontawesome.min.css"]
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -50,4 +55,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
+## Added this to make the homepage image and use of html in markdown possible
+## https://jdhao.github.io/2019/12/29/hugo_html_not_shown/
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 

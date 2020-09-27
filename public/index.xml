@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stanley space</title>
+    <title>Homepage on Ify</title>
     <link>/</link>
-    <description>Recent content on Stanley space</description>
+    <description>Recent content in Homepage on Ify</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2020 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Soliloquy of Stanley</title>
+      <link>/2020/09/26/soliloquy-of-stanley/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/26/soliloquy-of-stanley/</guid>
+      <description>As I look onward to the next chapter of my life. I wanted to briefly pen down some couple of undocumented reflection that has been a foreplay in thought process this summer.
+It been two years since I was given this wonderful opportunity to dream. First, I say a big thank to IMBRSea for this incredible platform to ride of the crest what was once a mere infatuation. I have always only wanted to marine science ever since I unintendedly discovered this discipline.</description>
+    </item>
+    
+    <item>
+      <title>From the shell to the wave</title>
+      <link>/2020/09/09/from-the-shell-to-the-wave/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/09/from-the-shell-to-the-wave/</guid>
+      <description>Why this? Why write?
+Honestly, I never meant to go this way. I&amp;rsquo;m not even sure why I am doing this. I have been much of a recluse for long to suddenly charge off to the internet to start anything remotely close to blogging. However, during the summer of 2020 amidst the COVID pandemic, I became too bored and I decided to learn some new stuff. Refreshen my CSS skills, Latex, Julia and a bit of Good O&amp;rsquo;l Fortran.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,8 +37,19 @@
       <pubDate>Wed, 05 Aug 2020 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi, my name is Stanley, a grad student with African root, hatched in the Lagos, Nigeria and living as an academic normad ever since. I&amp;rsquo;m interested in understanding how our marine system works, especially in aspect of biogeochemistry and ecology.
-I decided to create this blog to help practice my communication skills as I navigate this academic terrain. So, In essence this space will be a hub for joggling some of my thoughts, experiences and things that I&amp;rsquo;m currently learning about in marine science space.</description>
+      <description>Hi, my name is Stanley. I&amp;rsquo;m a PhD student in Laboratoire des Sciences du Climat et de l&amp;rsquo;Environnement (LSCE). My overarching interest lies in the intersection of physics, ecology and biogeochemistry in the marine environment. Currently, I will be working on aspect of sediment biogeochemical modelling.
+I decided to create this space as a landing page for my work. Occassionally, I will share some personal experiences/story as I journey on this academic terrain.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/</guid>
+      <description>Previous project These are some recent project I have worked or still working on.
+  Investigating Coral Community Change and Potential Recovery Following Mass Coral Bleaching and Mortality Event-Chagos Archipelagos case study
+ Involved in project investigating the response of coral communities after episodic external disturbances with the charming Dr Catherine Head of University of Oxford, UK as part of my professional practice in the International Masters in Marine Biological resources programme.</description>
     </item>
     
   </channel>

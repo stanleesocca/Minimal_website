@@ -2,8 +2,8 @@
 date: "2020-08-05T21:48:51-07:00"
 title: About
 ---
-Hi, my name is Stanley, a grad student with African root, hatched in the Lagos, Nigeria and living as an academic normad ever since. I'm interested in understanding how our marine system works, especially in aspect of biogeochemistry and ecology.
+Hi, my name is Stanley. I'm a PhD student in Laboratoire des Sciences du Climat et de l'Environnement (LSCE). My overarching interest lies in the intersection of physics, ecology and biogeochemistry in the marine environment. Currently, I will be working on aspect of sediment biogeochemical modelling.  
 
-I decided to create this blog to help practice my communication skills as I navigate this academic terrain. So, In essence this space will be a hub for joggling some of my thoughts, experiences and things that I'm currently learning about in marine science space. Occassionally, I will use this hub to flesh out some of the concept learnt through my academic itinerary. 
+I decided to create this space as a landing page for my work. Occassionally, I will share some personal experiences/story as I journey on this academic terrain. 
 
-So what to expect. Anything from short note, prose-like article, some programming codes (Yes, that's my side-habit) and generally things i like. You can follow me on [twitter](https://twitter.com/nmorstanlee)
+You can follow me on [twitter](https://twitter.com/nmorstanlee)
