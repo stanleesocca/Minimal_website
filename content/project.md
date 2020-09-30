@@ -8,11 +8,11 @@ These are some recent project I have worked or still working on.
   * I also developed a simple, coral ID web app for fun at the end of the project. I named it [Coralipedia](https://stanlee.shinyapps.io/Coralipedia/). Obviously, it can be better. If you have any ideas, reach out.
 
 * **Modelling the contribution of Microphytobenthos in Sediment biogeochemistry**
-  * I worked with the incredible [Dr Karline Soetaert](https://www.nioz.nl/en/about/organisation/staff/karline-soetaert) of Royal Netherland of Sea Research in improving   the representation of biological component in classic early diagenesis benthic model. 
+  * I worked with the amazing [Dr Karline Soetaert](https://www.nioz.nl/en/about/organisation/staff/karline-soetaert) of Royal Netherland of Sea Research in improving the representation of biological component in vertically resolved sediment biogeochemical model.
   * If you are interested in benthic ecosystem modelling/sediment diagenesis, I would be glad if   you can contact me to know more about this project. 
   
 * **SummeR: Online course for Introductory R**
-  * With a bunch of incredible guys, we helped developed an introductory online course for new study enrolled in the IMBRSea programme.
+  * With a bunch of cool guys, we helped developed an introductory online course for new study enrolled in the IMBRSea programme.
   * You can find more info [here](http://imbrsea.eu/how-will-online-courses-work) and check out the [course repository](https://github.com/IMBRSea-R-Working-Group/SummeR)
   
 * **Applied Numerical modeling of early diagenesis and benthic-pelagic coupling in sedimentary systems**

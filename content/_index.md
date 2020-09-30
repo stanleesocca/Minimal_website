@@ -30,8 +30,8 @@ author: Nmor Stanley
   
 
 
-Hi, my name is Stanley. I'm a PhD student in Laboratoire des Sciences du Climat et de l'Environnement (LSCE). My overarching interest lies in the intersection of Oceanography, Marine ecology and Biogeochemistry. Currently, I will be working on aspect of benthic biogeochemical cycle and early diagenesis modelling.  
+Hi, my name is Stanley. I'm a PhD student in Laboratoire des Sciences du Climat et de l'Environnement (LSCE). My overarching interest lies in the intersection of Oceanography, Marine ecology and Biogeochemistry. Currently, I will be working on numerical modelling of benthic biogeochemical cycle.  
 
-I decided to create this space as a landing page for my work. Occassionally, I will share some personal experiences/story on my academic training. 
+I decided to create this space as a landing page for my work. Occassionally, I will share some experiences, story, commentaries along the way. 
 
 
