@@ -11,5 +11,9 @@ These are some recent project I have worked or still working on.
   * I worked with the incredible [Dr Karline Soetaert](https://www.nioz.nl/en/about/organisation/staff/karline-soetaert) of Royal Netherland of Sea Research in improving   the representation of biological component in classic early diagenesis benthic model. 
   * If you are interested in benthic ecosystem modelling/sediment diagenesis, I would be glad if   you can contact me to know more about this project. 
   
+* **SummeR: Online course for Introductory R**
+  * With a bunch of incredible guys, we helped developed an introductory online course for new study enrolled in the IMBRSea programme.
+  * You can find more info [here](http://imbrsea.eu/how-will-online-courses-work) and check out the [course repository](https://github.com/IMBRSea-R-Working-Group/SummeR)
+  
 * **Applied Numerical modeling of early diagenesis and benthic-pelagic coupling in sedimentary systems**
   * This project at the [OCEANIS group](https://www.lsce.ipsl.fr/Phocea/Vie_des_labos/Ast/ast_groupe.php?id_groupe=145) will be my current focus for the next coming years. I will be supervised by [Dr Christophe Rabouille](https://www.lsce.ipsl.fr/Phocea/Pisp/index.php?nom=christophe.rabouille) and [Dr Eric Viollier](https://www.ipgp.fr/fr/viollier-eric). Finger crossed on this one. 

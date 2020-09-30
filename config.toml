@@ -23,16 +23,16 @@ enableEmoji = true
     pre = "fas fa-tasks"
     weight = 2
 
-[[menu.main]]
-    name = "Github"
-    pre =  "fa fa-github"
-    url = "https://github.com/stanleesocca"
-    weight = 3
-[[menu.main]]
-    name = "CV"
-    pre = "fas fa-graduation-cap"
-    url = "CV/cv.pdf"
-    weight = 4
+# [[menu.main]]
+#     name = "Github"
+#     pre =  "fa fa-github"
+#     url = "https://github.com/stanleesocca"
+#     weight = 3
+# [[menu.main]]
+#     name = "CV"
+#     pre = "fas fa-graduation-cap"
+#     url = "CV/cv.pdf"
+#     weight = 4
 
 [params]
     description = "Personal space for all things marine science"

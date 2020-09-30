@@ -23,12 +23,15 @@ author: Nmor Stanley
   <a href="https://twitter.com/nmorstanlee">
       <span class="fa fa-twitter"></span>
   </a>
+   <a href="https://www.linkedin.com/in/stanley-nmor-561905189/">
+      <span class="fa fa-linkedin"></span>
+  </a>
 </div>
   
 
 
-Hi, my name is Stanley. I'm a PhD student in Laboratoire des Sciences du Climat et de l'Environnement (LSCE). My overarching interest lies in the intersection of Oceanography, Marine ecology and Biogeochemistry. Currently, I will be working on aspect of sediment biogeochemical modelling.  
+Hi, my name is Stanley. I'm a PhD student in Laboratoire des Sciences du Climat et de l'Environnement (LSCE). My overarching interest lies in the intersection of Oceanography, Marine ecology and Biogeochemistry. Currently, I will be working on aspect of benthic biogeochemical cycle and early diagenesis modelling.  
 
-I decided to create this space as a landing page for my work. Occassionally, I will share some personal experiences/story as I journey on this academic terrain. 
+I decided to create this space as a landing page for my work. Occassionally, I will share some personal experiences/story on my academic training. 
 
 
