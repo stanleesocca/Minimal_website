@@ -1,8 +1,8 @@
 ---
-title: Coming out of the Shell
+title: From the Shell
 author: Stanley
 date: '2020-09-09'
-slug: Coming out of the Shell
+slug: From the Shell
 categories: []
 tags: []
 ---
