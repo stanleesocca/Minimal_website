@@ -9,7 +9,7 @@ tags: []
 
 Why this? Why write?
 
-Honestly, I never meant to go this way. I'm not even sure why I am doing this. I have been much of a recluse for long to suddenly charge off to the internet to start anything remotely close to blogging. However, during the summer of 2020 amidst the COVID pandemic, I became too bored and I decided to learn some new stuff. Improve on my web dev skills, tried to get my head around Latex, checkout the much talk about [Julia Language](https://julialang.org/), experiment with some good O'l Fortran and had some good summer read on non-science books were highlight of my activities. The result of one such experiment is what you are reading. 
+Honestly, I never meant to go this way. I'm not even sure why I am doing this. I have been much of a recluse for long to suddenly charge off to the internet to start anything remotely close to blogging. However, during the summer of 2020 amidst the COVID pandemic, I became too bored and I decided to learn some new stuff. The highlight were improving on my web dev skills, tried to get my head around Latex, checkout the much talk about [Julia Language](https://julialang.org/), had a go with some good O'l Fortran and lastly found time to engage in some summer reading (non-science books). The result of one such experiment is what you are reading. 
 
 On a more serious note, the question of expressing myself in my own terms have been a recurring theme in my headspace for a while. I have procrastinated for much long to try something in that direction. Finally, I gave in and managed to find time to create this little corner of the web for my own fancy. Perhaps I will justify why I had to toll this path. 
 
@@ -19,6 +19,6 @@ On a more serious note, the question of expressing myself in my own terms have b
 
 - Lastly, As shared by [David Robinson](http://varianceexplained.org/r/start-blog/), aspiring data scientist ought to consider some sort of micro-blogging to help career visibility. The statement rings true for all professional beyond data science practitioners. I might as well as start building my digital presence now for future sake. Hopefully, I stay long enough beyond some couple of post and try updating this space. 
 
-<p align = "center" >< That being said, I welcome you to this corner of the web.</></p>  
+<p align = "center" > That being said, I welcome you to this corner of the web.</></p>  
 
 
