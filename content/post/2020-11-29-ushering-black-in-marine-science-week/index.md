@@ -18,7 +18,6 @@ Shortly arriving in Europe to pursue my masters, the realisation of being a lone
 
 However, the tides seem to be changing. Earlier this year, a fairly random tweet by Dr Tiara Moore, asking if there was ever thing like “a black in marine science” spark a chain of reaction that resonate with a lot of fellows around the ocean science community. The net result is the first #BlackinMarineScience week that seek to celebrate the excellence and success of minorities in this discipline. This event and the conversations that will ensue can be follow on twitter and other channels ([website](https://blackinmarsci.github.io/), [twitter page with the hashtag #BlackinMarineScience](https://twitter.com/BlackinMarSci)) from 29th of November – 5th of December 2020. 
 
-{{< tweet 1333108111100416000 >}}
 
 In my opinion, this is a fantastic initiative to increase representative and inspire each other. Finally, I feel the voices and faces are coming out. A community that feels what I feel, understand some of my perception, and inclination. 
 
