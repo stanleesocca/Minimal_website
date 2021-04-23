@@ -32,7 +32,7 @@ author: Nmor Stanley
 
 <p align = "center"> Hi, my name is Stanley. 
   <br> Laboratoire des Sciences du Climat et de l'Environnement (LSCE) 
-  <br> Coastal and Deep sea biogeochemistry 
+  <br> Learning how to our earth system works...
 </p>
 
 <p align="right"><i>Prior thinking, posterior rambling...</i></></p>
